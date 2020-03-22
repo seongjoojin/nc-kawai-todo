@@ -19,3 +19,7 @@ npx react-native set-splash --path assets/splash.png --background "#f23658"
 `'React/RCTBridgeModule.h' file not found`문제가 있다면 저는 아래의 방법으로 해결하였습니다.
 
 https://github.com/crazycodeboy/react-native-splash-screen/issues/467
+
+## android 테스트
+
+https://dply.me/5bacov
